@@ -1,0 +1,1 @@
+alert("kamu adalah suki")
